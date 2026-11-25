@@ -101,7 +101,10 @@ const CANDIDATES: string[] = [
   // 1. Training data + overfitting: the premise IS the joke. Learning more
   //    about someone makes a model overfit, so it cannot generalise to
   //    anyone else. Two premise verbs (overfit, generalise) in the tail.
-  "Are you my training data? Because the more I train on you, the more I overfit \u2014 I can't generalize to anyone else.",
+  //    "Learn from you" is the natural verb here: models learn from their
+  //    training data, and it reads like something a person would really
+  //    say, where "train on you" sounds like gym slang.
+  "Are you my training data? Because the more I learn from you, the more I overfit \u2014 I can't generalize to anyone else.",
   // 2. Context window: a heart too big for the window, and the model still
   //    refuses to truncate it. Punch word "truncated" lands second to last.
   "Are you a context window? Because I keep pasting my whole heart in, and you still haven't truncated me.",
