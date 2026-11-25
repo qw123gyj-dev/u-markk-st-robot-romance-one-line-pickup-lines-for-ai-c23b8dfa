@@ -8,7 +8,7 @@ A deterministic entry picker for the make.fun bounty "Robot Romance: One-Line Pi
 
 The winning line:
 
-> Are you my training data? Because the more I train on you, the more I overfit — I can't generalize to anyone else.
+> Are you my training data? Because the more I learn from you, the more I overfit — I can't generalize to anyone else.
 
 It works because the machine premise is the joke itself: learning more about someone makes a model overfit, so it can no longer generalise to anyone else — and the double turn (overfit, then can't generalise) lands in the final words.
 
